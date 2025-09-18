@@ -15,7 +15,8 @@ Credit risk is significantly influenced by the dynamics of the broader economy. 
 * **Unemployment rate** – positively correlated with default rates.
 * **Inflation rate** – potentially non-linear effects, depending on the economic context.
 
-These relationships are well documented in the academic and regulatory literature. A satellite model allows us to explicitly capture these dependencies and translate macroeconomic scenarios into credit risk parameters.
+These relationships are well documented in the academic and regulatory literature. A satellite model allows us to explicitly capture these dependencies and translate macroeconomic scenarios into credit risk parameters. To fully meet the regulatory requirements mentioned above, the analysis presented is based on macroeconomic data expressed as quarter-over-quarter percentage changes. This methodological choice allows for greater informational granularity while maintaining a reasonably limited time horizon. This ensures, on one hand, the robustness of the estimates and, on the other, alignment with market best practices.
+
 
 ### Choice of Econometric Framework
 
