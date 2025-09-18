@@ -1,4 +1,5 @@
 ## Satellite Model for IFRS 9 Impairment
+In the dataset, "Tasso Default" means "Default Rate". Apologies for the legacy; I should have updated all the code, otherwise it wouldn’t work properly. The dafault rate was obtained from the Bank of Italy dataset regarding the No financial firms.
 
 ### Context and Motivation
 
